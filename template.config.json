@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "slug": "luxe-hair-studio",
+  "category": "beauty.hair-salon",
+  "slot_schema_version": 1,
+  "author": {
+    "handle": "kirantikoo"
+  },
+  "license": "MIT"
+}
